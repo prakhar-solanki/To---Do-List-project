@@ -26,7 +26,6 @@ to-do-list/
 ├── script.js       # JavaScript functionality
 └── README.md       # This file
 ```
-```
 
 Getting Started
 
