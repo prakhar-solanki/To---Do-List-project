@@ -24,6 +24,7 @@ to-do-list/
 ├── styles.css      # Styling for the app
 ├── script.js       # JavaScript functionality
 └── README.md       # This file
+
 Getting Started
 
 
