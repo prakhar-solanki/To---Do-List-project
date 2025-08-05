@@ -18,12 +18,15 @@ Demo
 
 Project Structure
 text
+```
 to-do-list/
 │
 ├── index.html      # Main HTML structure
 ├── styles.css      # Styling for the app
 ├── script.js       # JavaScript functionality
 └── README.md       # This file
+```
+```
 
 Getting Started
 
