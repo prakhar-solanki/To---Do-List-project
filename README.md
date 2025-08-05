@@ -1,4 +1,4 @@
-To-Do List App /t
+To-Do List App 
 
 A simple, dynamic To-Do List web app that lets users add, remove, and mark tasks as complete—built with HTML, CSS, and JavaScript.
 
